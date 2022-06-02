@@ -1,0 +1,8 @@
+<module xmlns="urn:jboss:module:1.1" name="org.jboss.pnc.logging">
+    <resources>
+        <resource-root path="${project.build.finalName}.jar"/>
+    </resources>
+    <dependencies>
+        <module name="java.logging"/>
+    </dependencies>
+</module>
