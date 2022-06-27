@@ -14,6 +14,20 @@
         <tagSuffix />
     </properties>
 
+    <scm>
+        <connection>scm:git:https://github.com/project-ncl/logging-module.git</connection>
+        <developerConnection>scm:git:git@github.com:project-ncl/logging-module.git</developerConnection>
+        <url>https://github.com/project-ncl/logging-module</url>
+        <tag>HEAD</tag>
+    </scm>
+    <developers>
+        <developer>
+            <id>jbrazdil</id>
+            <email>jbrazdil@redhat.com</email>
+            <name>Honza Brazdil</name>
+            <organization>Red Hat</organization>
+        </developer>
+    </developers>
     <distributionManagement>
         <repository>
             <id>sonatype-nexus-staging</id>
