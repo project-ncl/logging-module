@@ -12,6 +12,9 @@
         <tagSuffix />
     </properties>
 
+    <name>PNC Logging module for Wildfly</name>
+    <description>This project is a Wildfly module, which provides tools for logging.</description>
+    <url>https://github.com/project-ncl/logging-module</url>
     <scm>
         <connection>scm:git:https://github.com/project-ncl/logging-module.git</connection>
         <developerConnection>scm:git:git@github.com:project-ncl/logging-module.git</developerConnection>
